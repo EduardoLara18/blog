@@ -1,0 +1,55 @@
+body {
+    background-color: #caa8e6;
+}
+
+#zona-encabezado {
+    width: 85%;
+    color: #634258;
+    background-color: #c18feb;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32pt;
+}
+
+.texto-encabezado {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    color: #8a3aaf;
+}
+
+#zona-imagenes {
+    width: 85%;
+    background-color: #474afa;
+    text-align: center;
+}
+
+img {
+    width: 20%;
+    
+}
+
+#zona-cuerpo {
+    width: 85%;
+    color: #2420ff;
+    background-color: #484bff;
+}
+
+.texto-cuerpo {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16pt;
+}
+
+#zona-final {
+    width: 85%;
+    color: #330346;
+    background-color: #7f5cff;
+    font-size: 12pt;
+}
+
+.texto-final {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+}
